@@ -19,8 +19,9 @@ public class arrayContains {
     /*
 
          Artan düzende sıralanmış iki adet ınt array göz önüne alındığında,
- dış ve iç, içteki tüm sayılar dışta görünüyorsa true değerini döndürür.
-İlk arrayin ikinci arrayi içerdiğini doğrulayın.
+         dış ve iç,
+         içteki tüm sayılar dışta görünüyorsa true değerini döndürür.
+         İlk arrayin ikinci arrayi içerdiğini doğrulayın.
 
          linearIn([1, 2, 4, 6], [2, 4]) → true
          linearIn([1, 2, 4, 6], [2, 3, 4]) → false

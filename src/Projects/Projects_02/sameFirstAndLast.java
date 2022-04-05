@@ -36,9 +36,9 @@ public class sameFirstAndLast {
 
         String myStr = scan.nextLine();
 
-        String[] useThisArray = myStr.split("");
+        String[] useThisArray = myStr.split(" ");
 
-      //        code start here
+      // code start here
 
       // Koda burdan başlayin
 

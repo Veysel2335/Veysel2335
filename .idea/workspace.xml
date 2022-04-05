@@ -1,24 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="260e8ef6-4c41-435d-8255-72f302a65d46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Projects/Projects_01/PerfectSquareVeysel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/Projects_01/PrintEvenNumberVeysel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/Projects_01/ageVeysel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/Projects_01/checkNumberVeysel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/Projects_01/countEVeysel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/Projects_01/daysVeysel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/Projects_01/faktroyelVeysel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/Projects_02/ChangeArray_Veysel.java" afterDir="false" />
+    <list default="true" id="260e8ef6-4c41-435d-8255-72f302a65d46" name="Changes" comment="05.04.2022">
+      <change afterPath="$PROJECT_DIR$/src/_11_dateTime/HaftaninSorusu/sorusu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_dateTime/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_dateTime/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_dateTime/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_dateTime/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_dateTime/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_dateTime/Tarih Şablom Formatları .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Varargs/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Varargs/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Varargs/Trick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Varargs/_13_StringBuilder/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Varargs/_13_StringBuilder/STRİNGBUİLDERS.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Varargs/_13_StringBuilder/StrinBuilder_Buffer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Varargs/_13_StringBuilder/StringBuilder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Varargs/_13_StringBuilder/StringBuilderpdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_StringBuilder/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_StringBuilder/STRİNGBUİLDERS.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_StringBuilder/StrinBuilder_Buffer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_StringBuilder/StringBuilder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_StringBuilder/StringBuilderpdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14_Encapsulation/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14_Encapsulation/ArabaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14_Encapsulation/ENCAPSULATIOIN.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14_Encapsulation/Q01/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14_Encapsulation/Q02/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P01_FilmTahmin/FilmTahmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P02_javaBankATM/JavaBankATM01/JavaBankAtm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P02_javaBankATM/JavaBankATM01/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P02_javaBankATM/JavaBankATM02/A01_UserScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P02_javaBankATM/JavaBankATM02/A02_InfoControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P02_javaBankATM/JavaBankATM02/A03_Transactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P02_javaBankATM/JavaBankATM02/A04_ChoiceMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P02_javaBankATM/JavaBankATM02/JavaBankAtm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P02_javaBankATM/JavaBankATM02/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P03_UcusProjesi/JavaAirlines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P03_UcusProjesi/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P03_UcusProjesi/Ucus_projesi01/JavaAirlines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P03_UcusProjesi/Ucus_projesi01/UcusMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P03_UcusProjesi/Ucus_projesi01/Yolcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P03_UcusProjesi/Yolcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P04_okulYönetimi/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P04_okulYönetimi/InfoProject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P04_okulYönetimi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P04_okulYönetimi/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P04_okulYönetimi/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P05_HalukMarket/HalukMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P05_HalukMarket/akışŞeması.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P06_KahveMakinesi/Kahve_makinesi01/KahveMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P06_KahveMakinesi/Kahve_makinesi02/HangiKahve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P06_KahveMakinesi/Kahve_makinesi02/Kahve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/P06_KahveMakinesi/Kahve_makinesi02/KahveRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/RandomNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/RandomNumberBetweenTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/checkNumberEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/countE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/factorialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/getTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/perfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/printEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/totalLetterCountCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_01/twoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_02/Common2Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_02/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_02/arrayContains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_02/changeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_02/diffBetweenMaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_02/maxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_02/minNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_02/removeDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_02/reverseArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_02/sameFirstAndLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_02/sumTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_02/testClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_03/CamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_03/Proje3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_03/SubtractionSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_03/ThreeEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_03/UpdateRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects2/Projects_03/getPopulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/T01_UzunKelime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/T02_IkininKuvveti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/T03_KelimeOyunu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/T04_SayiTahminKredili.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/T05_SayiTahminBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/T06_PermutasyonKombinasyon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/Projects/Projects_01/factorialNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/Projects/Projects_01/factorialNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/Projects/filmTahmin/FilmTahmin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/Projects/filmTahmin/FilmTahmin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects/Projects_01/factorialNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Projects_01/factorialNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/Projects/Projects_02/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/Projects/Projects_02/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/Projects/Projects_02/arrayContains.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/Projects/Projects_02/arrayContains.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/Projects/Projects_02/minNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/Projects/Projects_02/minNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/Projects/Projects_02/sameFirstAndLast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/Projects/Projects_02/sameFirstAndLast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/Projects/filmTahmin/FilmTahmin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/Projects_02/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Projects_02/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/Projects_02/arrayContains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Projects_02/arrayContains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/Projects_02/minNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Projects_02/minNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/Projects_02/sameFirstAndLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Projects_02/sameFirstAndLast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/filmTahmin/FilmTahmin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/filmTahmin/FilmTahminiBen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/T01.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,13 +167,13 @@
       <recent name="D:\AdvancedJavaPractice\src\AdvancedJavaPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testClass">
-    <configuration name="ChangeArray_Veysel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Projects.Projects_02.ChangeArray_Veysel" />
+  <component name="RunManager" selected="Application.ArabaMain">
+    <configuration name="ArabaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14_Encapsulation.ArabaMain" />
       <module name="AdvancedJavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Projects.Projects_02.*" />
+          <option name="PATTERN" value="_14_Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Projects.Projects_01.RandomNum" />
+    <configuration name="ChangeArray_Veysel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.Projects_02.ChangeArray_Veysel" />
       <module name="AdvancedJavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Projects.Projects_01.*" />
+          <option name="PATTERN" value="Projects.Projects_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArabaMain" />
         <item itemvalue="JUnit.testClass" />
         <item itemvalue="Application.ChangeArray_Veysel" />
         <item itemvalue="Application.changeArray" />
         <item itemvalue="Application.RandomNumberBetweenTwoNumbers" />
-        <item itemvalue="Application.RandomNum" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +254,14 @@
       <option name="presentableId" value="Default" />
       <updated>1646307538686</updated>
     </task>
+    <task id="LOCAL-00001" summary="05.04.2022">
+      <created>1649165550686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649165550687</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,5 +274,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="05.04.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="05.04.2022" />
   </component>
 </project>

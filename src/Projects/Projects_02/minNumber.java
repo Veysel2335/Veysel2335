@@ -25,14 +25,14 @@ public class minNumber {
 
 
     public static void main(String[] args) {
-        int[][] number = new int[][]{{1,2,3}, {2,3,1} , {5,5,5} , {2,1,3}};
+        int[][] i1 = new int[][]{{1,2,3}, {2,3,1} , {5,5,5} , {2,1,3}};
 
-        int min = 10000 ;
-        for( int i = 0 ; i < number.length ; i++){
-            for(int j =0 ; j< number[i].length ; j++){
+        int min = 1 ;
+        for( int i = 0 ; i < i1.length ; i++){
+            for(int j =0 ; j< i1[i].length ; j++){
 
-                if(number[i][j] < min){
-                    min = number[i][j];
+                if(i1[i][j] < min){
+                    min = i1[i][j];
                 }
             }
 
