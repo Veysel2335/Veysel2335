@@ -2,23 +2,8 @@ package Projects.Projects_01;
 
 import java.util.Scanner;
 
-public class factorialNumber {
-
+public class faktroyelVeysel {
     public static void main(String[] args) {
-
-        /*
-        Write a program to find the factorial value of any number entered through the scanner class.
-
-        Example:
-        number:7
-        factorial:1*2*3*4*5*6*7=5040
-        output should be == 5040
-
-        number:6
-        factorial:1*2*3*4*5*6=720
-        output should be == 720
-
-       */
 
         /*
         Scanner class aracılığıyla girilen herhangi bir sayının faktöriyel değerini bulmak için bir program yazın.
@@ -30,6 +15,17 @@ public class factorialNumber {
 
          */
 
+        Scanner scan=new Scanner(System.in);
+        System.out.println("Bir sayi giriniz");
+        int sayi= scan.nextInt();
+        int fakt=1;
+        for (int i = 1; i <=sayi ; i++) {
+            fakt=fakt*i;
+
+        }
+        System.out.println("Sonuc :"+fakt);
+
+        System.out.println("*************");
         Scanner dp = new Scanner(System.in);
 
         String  strNum = dp.nextLine();
@@ -44,3 +40,6 @@ public class factorialNumber {
 
     }
 }
+
+
+
