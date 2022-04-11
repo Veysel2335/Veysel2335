@@ -2,7 +2,7 @@ package projects2.Projects_01;
 
 import java.util.Scanner;
 
-public class getTotal {
+public class  getTotal {
 
 
       /*
