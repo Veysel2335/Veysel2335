@@ -1,9 +1,276 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="260e8ef6-4c41-435d-8255-72f302a65d46" name="Changes" comment="06.04.2022">
+    <list default="true" id="260e8ef6-4c41-435d-8255-72f302a65d46" name="Changes" comment="11.04.2022">
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P01_FilmTahmin/FilmTahmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P02_javaBankATM/JavaBankATM01/JavaBankAtm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P02_javaBankATM/JavaBankATM01/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P02_javaBankATM/JavaBankATM02/A01_UserScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P02_javaBankATM/JavaBankATM02/A02_InfoControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P02_javaBankATM/JavaBankATM02/A03_Transactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P02_javaBankATM/JavaBankATM02/A04_ChoiceMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P02_javaBankATM/JavaBankATM02/JavaBankAtm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P02_javaBankATM/JavaBankATM02/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P02_javaBankATM/JavaBankATM03/JavaBankAtm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P02_javaBankATM/JavaBankATM03/MethodlarClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P02_javaBankATM/JavaBankATM03/MusteriBilgileri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P03_UcusProjesi/Ucus_projesi01/JavaAirlines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P03_UcusProjesi/Ucus_projesi01/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P03_UcusProjesi/Ucus_projesi01/UcusMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P03_UcusProjesi/Ucus_projesi01/Yolcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P03_UcusProjesi/Ucus_projesi02/JavaAirlines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P03_UcusProjesi/Ucus_projesi02/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P03_UcusProjesi/Ucus_projesi02/Yolcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P04_okulYönetimi/notHesap/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P04_okulYönetimi/notHesap/InfoProject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P04_okulYönetimi/notHesap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P04_okulYönetimi/notHesap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P04_okulYönetimi/notHesap/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P04_okulYönetimi/ogrcOgrtYonetimi/Islemler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P04_okulYönetimi/ogrcOgrtYonetimi/Kisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P04_okulYönetimi/ogrcOgrtYonetimi/OKUL YÖNETİM PLATFORMU.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P04_okulYönetimi/ogrcOgrtYonetimi/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P04_okulYönetimi/ogrcOgrtYonetimi/Ogretmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P04_okulYönetimi/ogrcOgrtYonetimi/OkulYönetimi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P04_okulYönetimi/ogrcOgrtYonetimi/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P04_okulYönetimi/ogrcOgrtYonetimi/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P05_HalukMarket/HalukMarket01/HalukMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P05_HalukMarket/HalukMarket01/akışŞeması.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P05_HalukMarket/HalukMarket02/HalukMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P05_HalukMarket/HalukMarket02/akışŞeması.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P06_KahveMakinesi/Kahve_makinesi01/KahveMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P06_KahveMakinesi/Kahve_makinesi02/HangiKahve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P06_KahveMakinesi/Kahve_makinesi02/Kahve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P06_KahveMakinesi/Kahve_makinesi02/KahveRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P07_GeometrikHesaplama/Cember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P07_GeometrikHesaplama/Dikdortgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P07_GeometrikHesaplama/Kare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P07_GeometrikHesaplama/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P07_GeometrikHesaplama/Sekil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P07_GeometrikHesaplama/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P07_GeometrikHesaplama/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P08_HastaneOtomasyon/Doktor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P08_HastaneOtomasyon/Durum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P08_HastaneOtomasyon/HASTANEPRODIAGRAM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P08_HastaneOtomasyon/Hasta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P08_HastaneOtomasyon/Hastane Projesi pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P08_HastaneOtomasyon/Hastane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P08_HastaneOtomasyon/HastaneRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P08_HastaneOtomasyon/VeriBankasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P09_kitapYonetimi/EklenenKitaplar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P09_kitapYonetimi/Kitapcı_KitapEkle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P09_kitapYonetimi/Kitapcı_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P10_aracKiralama/AracTalebi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P10_aracKiralama/MusteriVeArabaBilgisiGirisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/P10_aracKiralama/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/RandomNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/RandomNumberBetweenTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/checkNumberEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/countE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/factorialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/getTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/perfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/printEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/totalLetterCountCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_01/twoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_02/Common2Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_02/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_02/arrayContains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_02/changeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_02/diffBetweenMaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_02/maxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_02/minNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_02/removeDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_02/reverseArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_02/sameFirstAndLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_02/sumTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_02/testClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_03/CamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_03/Proje3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_03/SubtractionSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_03/ThreeEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_03/UpdateRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_03/getPopulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjects/Projects_03/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temiz Kod İçin 15 Öneri.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Arrays/Q19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_dateTime/HaftaninSorusu/GirisPaneli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_dateTime/HaftaninSorusu/Kayıt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_dateTime/HaftaninSorusu/Kullanıcı.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_dateTime/HaftaninSorusu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14_Encapsulation/Q01/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14_Encapsulation/Q01/ArabaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/T07_RomaRakamlari.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projects2/Projects_01/getTotal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects2/Projects_01/getTotal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Q18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Ter01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Ter02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_03_IfStatement_TernaryOperator/Ter03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_04_switchCase/Q01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_04_switchCase/Q02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_04_switchCase/Q03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_04_switchCase/Q04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_04_switchCase/Soru_Bankamatik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_04_switchCase/Soru_SeyahatProjesi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/A_StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/B_ValueOf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/Q01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/Q02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/Q03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/Q04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/Q05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/Q06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/Q07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/Q08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/Q09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/Q10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/Q11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_05_StringManipulation/Q12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_06_Method_Creation/AsalCarpan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_06_Method_Creation/Q01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_06_Method_Creation/Q02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_06_Method_Creation/Q03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_06_Method_Creation/Q04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_06_Method_Creation/Q05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_06_Method_Creation/Q06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_06_Method_Creation/Q07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_06_Method_Creation/Q08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_06_Method_Creation/Q09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_06_Method_Creation/Q10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_06_Method_Creation/Q11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/Q21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/_01_Nested.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_07_ForLoop/_09_Nested.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q04_OCAType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q08_OCAType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/Q17_OCAType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_08_While_DoWhile/haftanınTaskiii.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_09_Arrays/Q18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/ArrayListMethods$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/ArrayListMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/Q01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/Q02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/Q03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/Q04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/Q05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/Q06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/Q07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/Q08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/Q09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/Q10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/QAsalSayi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/QFibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/QManav.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/QMarket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdvancedJavaPractice/_10_List/QTasKagitMakas01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q04_OCAType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q04_OCAType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q08_OCAType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q08_OCAType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/Q17_OCAType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/Q17_OCAType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_While_DoWhile/haftanınTaskiii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_While_DoWhile/haftanınTaskiii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/ArrayListMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/ArrayListMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/Q04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/Q04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/Q05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/Q05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/Q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/Q06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/Q07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/Q07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/Q08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/Q08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/Q09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/Q09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/Q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/QAsalSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/QAsalSayi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/QFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/QFibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_List/QTasKagitMakas01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_List/QTasKagitMakas01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_dateTime/HaftaninSorusu/sorusu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_dateTime/HaftaninSorusu/sorusu.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_14_Encapsulation/Q01/Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_14_Encapsulation/Q01/Task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/T06_PermutasyonKombinasyon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/T06_PermutasyonKombinasyon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +334,7 @@
       <recent name="D:\AdvancedJavaPractice\src\AdvancedJavaPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArabaMain">
+  <component name="RunManager" selected="Application.Runner (1)">
     <configuration name="ArabaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_14_Encapsulation.ArabaMain" />
       <module name="AdvancedJavaPractice" />
@@ -81,12 +348,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChangeArray_Veysel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Projects.Projects_02.ChangeArray_Veysel" />
+    <configuration name="KahveMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projects2.P06_KahveMakinesi.Kahve_makinesi01.KahveMakinesi" />
       <module name="AdvancedJavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Projects.Projects_02.*" />
+          <option name="PATTERN" value="projects2.P06_KahveMakinesi.Kahve_makinesi01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +361,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomNumberBetweenTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Projects.Projects_01.RandomNumberBetweenTwoNumbers" />
+    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProjects.P04_okulYönetimi.ogrcOgrtYonetimi.Runner" />
       <module name="AdvancedJavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Projects.Projects_01.*" />
+          <option name="PATTERN" value="JavaProjects.P04_okulYönetimi.ogrcOgrtYonetimi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +374,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="changeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Projects.Projects_02.changeArray" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProjects.P07_GeometrikHesaplama.Runner" />
       <module name="AdvancedJavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Projects.Projects_02.*" />
+          <option name="PATTERN" value="JavaProjects.P07_GeometrikHesaplama.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +404,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner (1)" />
+        <item itemvalue="Application.KahveMakinesi" />
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.ArabaMain" />
         <item itemvalue="JUnit.testClass" />
-        <item itemvalue="Application.ChangeArray_Veysel" />
-        <item itemvalue="Application.changeArray" />
-        <item itemvalue="Application.RandomNumberBetweenTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649191791177</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="11.04.2022">
+      <created>1649694558887</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649694558888</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +459,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="05.04.2022" />
     <MESSAGE value="06.04.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="06.04.2022" />
+    <MESSAGE value="11.04.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.04.2022" />
   </component>
 </project>

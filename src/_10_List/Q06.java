@@ -17,25 +17,21 @@ public class Q06 {
          * OUTPUT : [1,2,3,4,5,6,7,8,9]
          */
 
-int []arr={1,2,2,3,1,4,2,5,6,8,7,5,9,1};
-List<Integer>tekrarsizList=new ArrayList<>();
-for (Integer s:arr){
-    if (!tekrarsizList.contains(s)){//eleman yoksa add ile tekrarsiz lsite ekle varsa gec
-        tekrarsizList.add(s);
-
-    }
-}
-Collections.sort(tekrarsizList);//list elemanlarini siraladik
-int tekrarsitArray[]=new int[tekrarsizList.size()];//tekrarsizList kadar lengt olan bos array atandi
-        for (int i = 0; i < tekrarsizList.size() ; i++) {
-            tekrarsitArray[i]=tekrarsizList.get(i);
-
+        int[] arr = {1, 2, 2, 3, 1, 4, 2, 5, 6, 8, 7, 5, 9, 1};
+        List<Integer> tekrarsizList = new ArrayList<>();
+        for (Integer s:arr) {
+            if (!tekrarsizList.contains(s)) {//eleman yoksa add ile tekrarsız liste ekle eleman varsa  geç
+                tekrarsizList.add(s);
+            }
+        }
+        Collections.sort(tekrarsizList);//list elemanlrını NO sıraladık
+        int tekrarsizArray[]=new int[tekrarsizList.size()];//tekrarsizList.size() kadar lenght olan bos array atandı
+        for (int i = 0; i <tekrarsizList.size(); i++) {
+            tekrarsizArray[i]=tekrarsizList.get(i);
 
         }
-        System.out.println("ahanda sana her elemandan bir tane olan array.."+Arrays.toString(tekrarsitArray));
-}
-
+        System.out.println(" ahanda sana her elemandan bir tane olan array ..."+Arrays.toString(tekrarsizArray));
 
     }
 
-
+}
