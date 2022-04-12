@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48bcad79-8bd1-494e-9d7c-e6917d4e631b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q01_ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q02_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q03_WhileCountSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q04_FrequencyOfCertainChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q05_ArrayListTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q06_MultiDimensolArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewquestion4/Q02_CreateRandomList_SetList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewquestion4/Q03_HackerLanguage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewquestion4/Q04_TestKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewquestion4/Q05_SpecialCharRemoveArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewquestion4/q01_UniqeArray.java" afterDir="false" />
+    <list default="true" id="48bcad79-8bd1-494e-9d7c-e6917d4e631b" name="Changes" comment="13.04.2022">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,6 +129,14 @@
       <option name="presentableId" value="Default" />
       <updated>1646646589336</updated>
     </task>
+    <task id="LOCAL-00001" summary="13.04.2022">
+      <created>1649797293212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649797293212</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,5 +149,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="13.04.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="13.04.2022" />
   </component>
 </project>
