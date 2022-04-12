@@ -2,127 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48bcad79-8bd1-494e-9d7c-e6917d4e631b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions1/Q01_CountsOfCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions1/Q02_MergeCertainCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions1/Q03_PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions1/Q04_CountOfEnterCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions1/Q05_ForFlashBack_Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions2/JavaMathClassMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions2/Q01_ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions2/Q02_ArmstrongNumber_4Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions2/Q03_FibonacciListNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions2/Q04_PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions2/Q05_DifferenceBetweenArray_LargestAndSmallestElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_Prep1/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_Prep1/Q01_ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_Prep1/Q02_ArmstrongNumber_4Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q01_ForEach01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q02_ForEach02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q03_LocalDate01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q04_LocalDate02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q05_LocalDate03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q06_LocalDate04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q07_LocalDate05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q08_LocalDate06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q09_ZoneDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q10_Varargs01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q11_Varargs02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q1ForEachVeysel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q2ForEachVeysel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q01_ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q02_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q03_WhileCountSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q04_FrequencyOfCertainChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q05_ArrayListTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q06_MultiDimensolArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewquestion4/Q02_CreateRandomList_SetList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewquestion4/Q03_HackerLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewquestion4/Q04_TestKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewquestion4/Q05_SpecialCharRemoveArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewquestion4/q01_UniqeArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/interview_Prep1/Q01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/interview_Prep1/intq2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/interview_Prep1/intq3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/interview_Prep1/q04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day01/Q01_Sout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day01/Q02_Println_vs_print.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day01/Q03_PrimitiveDataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day01/Q04_JavaVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day01/Q05_EscapeSequences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day01/Q06_Average.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day01/Q07_Converting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day01/Q08_Scanner01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day01/Q09_Scanner02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day01/Q10_IfStatement01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day01/Q11_IfStatement02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day01/Q12_IfStatement03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day01/Q13_Ternary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q01_NestedIfStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q02_NestedTernary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q03_SwitchCase01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q04_SwitchCase02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q05_SwitchCase03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q05_SwitchCase03_firstVersion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q06_NestedIfandTernary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q07_StringManipulation01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q08_StringManipulation02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q09_StringManipulation03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q10_StringManipulation04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q11_StringManipulation05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q12_StringManipulation06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q13_StringManipulation07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q14_StringManipulation08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q15_StringManipulation09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q16_StringManipulation10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q17_StringManipulation11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q18_StringManipulation12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day02/Q19_StringManipulation13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q01_MethodCreation01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q02_MethodCreation02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q03_MethodCreation03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q04_MethodCreation04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q05_MethodCreation05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q06_ForLoop01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q07_ForLoop02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q08_ForLoop03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q09_ForLoop04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q10_ForLoop05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q11_ForLoop06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q12_MetCreationForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q13_WhileLoop01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q14_WhileLoop02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q15_DoWhileLoop01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day03/Q16_DoWhileLoop02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day04/Q01_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day04/Q02_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day04/Q03_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day04/Q04_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day04/Q05_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day04/Q06_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day04/Q07_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day04/Q08_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day04/Q09_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day04/Q10_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day04/Q11_ArraysList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day04/Q12_ArraysList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day04/Q13_ArraysList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day05/Constructor_ThisKeyword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day05/Instance_Variable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day05/ObjeOlusturma_ogretmen/BookClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day05/ObjeOlusturma_ogretmen/ObjectClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_basic_day05/ObjeOlusturma_ogretmen/OgretmenBilgileri.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free/Q01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free/Q02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free/Q03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free/Q04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free/Q05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free/Q06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free/Q07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free1/Q01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free1/Q02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free1/Q03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free1/Q04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free1/Q05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free1/Q06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free1/Q07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free2/Q01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free2/Q02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free2/Q03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free2/Q04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free2/Q05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free2/Q06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free2/Q07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ElifHoca/practice_free2/Q08.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,13 +55,13 @@
       <recent name="D:\ElifHoca\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q10_Varargs01">
-    <configuration name="Q02_ForEach02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_basic_day06.Q02_ForEach02" />
+  <component name="RunManager" selected="Application.Q05_SpecialCharRemoveArray">
+    <configuration name="Q02_CreateRandomList_SetList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestion4.Q02_CreateRandomList_SetList" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_basic_day06.*" />
+          <option name="PATTERN" value="interviewquestion4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q05_LocalDate03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_basic_day06.Q05_LocalDate03" />
+    <configuration name="Q03_HackerLanguage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestion4.Q03_HackerLanguage" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_basic_day06.*" />
+          <option name="PATTERN" value="interviewquestion4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q10_Varargs01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_basic_day06.Q10_Varargs01" />
+    <configuration name="Q04_TestKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestion4.Q04_TestKeyword" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_basic_day06.*" />
+          <option name="PATTERN" value="interviewquestion4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1ForEachVeysel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_basic_day06.Q1ForEachVeysel" />
+    <configuration name="Q05_SpecialCharRemoveArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestion4.Q05_SpecialCharRemoveArray" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_basic_day06.*" />
+          <option name="PATTERN" value="interviewquestion4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2ForEachVeysel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_basic_day06.Q2ForEachVeysel" />
+    <configuration name="q03_Hackerlanguage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestion4.q03_Hackerlanguage" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_basic_day06.*" />
+          <option name="PATTERN" value="interviewquestion4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q10_Varargs01" />
-        <item itemvalue="Application.Q05_LocalDate03" />
-        <item itemvalue="Application.Q02_ForEach02" />
-        <item itemvalue="Application.Q2ForEachVeysel" />
-        <item itemvalue="Application.Q1ForEachVeysel" />
+        <item itemvalue="Application.Q05_SpecialCharRemoveArray" />
+        <item itemvalue="Application.Q04_TestKeyword" />
+        <item itemvalue="Application.Q03_HackerLanguage" />
+        <item itemvalue="Application.q03_Hackerlanguage" />
+        <item itemvalue="Application.Q02_CreateRandomList_SetList" />
       </list>
     </recent_temporary>
   </component>
