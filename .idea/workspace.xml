@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48bcad79-8bd1-494e-9d7c-e6917d4e631b" name="Changes" comment="13.04.2022">
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions5/Q01_UsingDoWhilePrintNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions5/Q02_PrintEvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions5/Q03_CountFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions5/Q04_PrintVowelsOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions5/Q05_UsingDoWhileWithCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions5/Q06_CountsOfRepeatingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewquestion4/Q06_MultipleMethodVarargs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +51,13 @@
       <recent name="D:\ElifHoca\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q05_SpecialCharRemoveArray">
-    <configuration name="Q02_CreateRandomList_SetList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewquestion4.Q02_CreateRandomList_SetList" />
+  <component name="RunManager" selected="Application.Q06_CountsOfRepeatingElement">
+    <configuration name="Q01_UsingDoWhilePrintNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewQuestions5.Q01_UsingDoWhilePrintNumber" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviewquestion4.*" />
+          <option name="PATTERN" value="interviewQuestions5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q03_HackerLanguage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewquestion4.Q03_HackerLanguage" />
+    <configuration name="Q03_CountFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewQuestions5.Q03_CountFactors" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviewquestion4.*" />
+          <option name="PATTERN" value="interviewQuestions5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q04_TestKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewquestion4.Q04_TestKeyword" />
+    <configuration name="Q04_PrintVowelsOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewQuestions5.Q04_PrintVowelsOfString" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviewquestion4.*" />
+          <option name="PATTERN" value="interviewQuestions5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q05_SpecialCharRemoveArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewquestion4.Q05_SpecialCharRemoveArray" />
+    <configuration name="Q05_UsingDoWhileWithCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewQuestions5.Q05_UsingDoWhileWithCondition" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviewquestion4.*" />
+          <option name="PATTERN" value="interviewQuestions5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q03_Hackerlanguage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewquestion4.q03_Hackerlanguage" />
+    <configuration name="Q06_CountsOfRepeatingElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewQuestions5.Q06_CountsOfRepeatingElement" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviewquestion4.*" />
+          <option name="PATTERN" value="interviewQuestions5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q05_SpecialCharRemoveArray" />
-        <item itemvalue="Application.Q04_TestKeyword" />
-        <item itemvalue="Application.Q03_HackerLanguage" />
-        <item itemvalue="Application.q03_Hackerlanguage" />
-        <item itemvalue="Application.Q02_CreateRandomList_SetList" />
+        <item itemvalue="Application.Q06_CountsOfRepeatingElement" />
+        <item itemvalue="Application.Q05_UsingDoWhileWithCondition" />
+        <item itemvalue="Application.Q04_PrintVowelsOfString" />
+        <item itemvalue="Application.Q03_CountFactors" />
+        <item itemvalue="Application.Q01_UsingDoWhilePrintNumber" />
       </list>
     </recent_temporary>
   </component>
