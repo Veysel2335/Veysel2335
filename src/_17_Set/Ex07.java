@@ -1,7 +1,5 @@
 package _17_Set;
 
-import java.util.HashSet;
-
 public class Ex07 {
 
 	/*  TASK :

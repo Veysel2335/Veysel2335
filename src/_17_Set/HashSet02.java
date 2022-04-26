@@ -1,9 +1,6 @@
 package _17_Set;
 
 
-
-import java.util.*;
-
 public class HashSet02 {
     public static void main(String[] args) {
 /*

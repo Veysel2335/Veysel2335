@@ -16,6 +16,16 @@ public class Ex04 {
 			 	
 			 */
 
+        LinkedList<String> ll1=new LinkedList<>(Arrays.asList("haluk", "ipek", "harun", "irem"));
+
+        Scanner scan=new Scanner(System.in);
+        System.out.println("isim gir:");
+        String isim= scan.nextLine().toLowerCase();
+        if (ll1.remove(isim)){
+            System.out.println("listede vardi silindi");
+            System.out.println(ll1);
+        }else System.out.println("listede yok silemedi");
+
 
     }
 }

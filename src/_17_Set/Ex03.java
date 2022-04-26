@@ -1,10 +1,5 @@
 package _17_Set;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
-
 public class Ex03 {
     /* TASK:
 

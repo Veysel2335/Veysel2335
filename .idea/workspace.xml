@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="260e8ef6-4c41-435d-8255-72f302a65d46" name="Changes" comment="12.04.2022">
-      <change afterPath="$PROJECT_DIR$/src/_15_Exceptions/Exceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_Exceptions/Task01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_Exceptions/Task02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_Exceptions/Task03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_Exceptions/Task04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_Exceptions/Task05.txt" afterDir="false" />
+    <list default="true" id="260e8ef6-4c41-435d-8255-72f302a65d46" name="Changes" comment="16.04.2022">
+      <change afterPath="$PROJECT_DIR$/src/LambdaDay01/Lambda01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_16_LinkedList/Ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_16_LinkedList/Ex04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Set/Ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Set/Ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Set/Ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Set/Ex02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Set/Ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Set/Ex03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Set/Ex06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Set/Ex06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Set/Ex07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Set/Ex07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Set/HashSet01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Set/HashSet01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Set/HashSet02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Set/HashSet02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Set/HashSet03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Set/HashSet03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_18_Maps/EX02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_Maps/EX02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,18 +72,18 @@
       <recent name="D:\AdvancedJavaPractice\src\_06_Method_Creation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\AdvancedJavaPractice\src\_04_switchCase" />
       <recent name="D:\AdvancedJavaPractice\src" />
+      <recent name="D:\AdvancedJavaPractice\src\_04_switchCase" />
       <recent name="D:\AdvancedJavaPractice\src\AdvancedJavaPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Runner (1)">
-    <configuration name="ArabaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_14_Encapsulation.ArabaMain" />
+  <component name="RunManager" selected="Application.Lambda01">
+    <configuration name="EX02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_18_Maps.EX02" />
       <module name="AdvancedJavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_14_Encapsulation.*" />
+          <option name="PATTERN" value="_18_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HastaneRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProjects.P08_HastaneOtomasyon.HastaneRunner" />
+    <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_17_Set.Ex01" />
       <module name="AdvancedJavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProjects.P08_HastaneOtomasyon.*" />
+          <option name="PATTERN" value="_17_Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KahveMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="projects2.P06_KahveMakinesi.Kahve_makinesi01.KahveMakinesi" />
+    <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_17_Set.Ex02" />
       <module name="AdvancedJavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="projects2.P06_KahveMakinesi.Kahve_makinesi01.*" />
+          <option name="PATTERN" value="_17_Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProjects.P04_okulYönetimi.ogrcOgrtYonetimi.Runner" />
+    <configuration name="HashMap01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_18_Maps.HashMap01" />
       <module name="AdvancedJavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProjects.P04_okulYönetimi.ogrcOgrtYonetimi.*" />
+          <option name="PATTERN" value="_18_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProjects.P07_GeometrikHesaplama.Runner" />
+    <configuration name="Lambda01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaDay01.Lambda01" />
       <module name="AdvancedJavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProjects.P07_GeometrikHesaplama.*" />
+          <option name="PATTERN" value="LambdaDay01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Runner (1)" />
-        <item itemvalue="Application.HastaneRunner" />
-        <item itemvalue="Application.KahveMakinesi" />
-        <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.ArabaMain" />
+        <item itemvalue="Application.Lambda01" />
+        <item itemvalue="Application.HashMap01" />
+        <item itemvalue="Application.EX02" />
+        <item itemvalue="Application.Ex02" />
+        <item itemvalue="Application.Ex01" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649773682202</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="12.04.2022">
+      <created>1650143410663</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650143410663</updated>
+    </task>
+    <task id="LOCAL-00006" summary="16.04.2022">
+      <created>1650143454792</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650143454793</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +223,7 @@
     <MESSAGE value="06.04.2022" />
     <MESSAGE value="11.04.2022" />
     <MESSAGE value="12.04.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.04.2022" />
+    <MESSAGE value="16.04.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="16.04.2022" />
   </component>
 </project>

@@ -1,9 +1,5 @@
 package _17_Set;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.TreeSet;
-
 public class HashSet03 {
     /*
 

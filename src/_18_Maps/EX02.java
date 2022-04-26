@@ -1,6 +1,5 @@
 package _18_Maps;
 
-import java.util.HashMap;
 import java.util.Scanner;
 import java.util.TreeMap;
 

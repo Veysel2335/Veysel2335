@@ -18,16 +18,21 @@ public class HashSet01 {
                                            değerlerin giriş sırasına dikkat edilmez. (LinkedHashSet hariç)
                                           3) HashSet "null" object'ini eleman olarak kullanabilir.
                                           Ancak birden fazla null degerini bir HashSet’e eklemek isterseniz sadece bir tane null degeri olur.
+                                             hurrrrrra alma iceri,hizli aksiyon...
 
                         LinkedHashset   : 1) Tekrarli eleman kabul etmezler. Elemanlari ekleme sirasina(insertion order) gore dizerler.
                                           2) LinkedHashSet, HashSet'den daha yavas calisir.
                                           3)LinkedHashSet "null" object'ini eleman olarak kullanabilir.
                                           4) Ekleme ve remove islemlerinde hizlidirlar.
 
+                                          sirayla,ilk geleni aliriz
+
                         TreeSet         : 1) TreeSet tekrarli eleman kabul etmez, cunku Set'dir.
 		                                  2) Elemanlari natural Order'a(String ise alfabetik, sayi ise kucukten buyuge) gore dizer.
 		 	                              3) TreeSet, setlerin en yavasidir. Bu yuzden TreeSet kullanirken dikkatli olunmalı...
 		 	                              4)AHAN DA TRİCK :TreeSet "null" object'ini eleman olarak kullanilamaz.
+
+		 	                              numarasiyla aliriz.1 numara kim oyle .dogal sira
 
 
          Set Methods :
