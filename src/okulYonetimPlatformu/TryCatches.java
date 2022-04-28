@@ -14,7 +14,7 @@ public class TryCatches {
             if (flag==true){
                 scan.nextLine();
                 flag=false;
-            }                                     //ctrl +alt +t
+            }                                      //ctrl +alt +t
             try {
                 giris =scan.nextInt();
                 scan.nextLine();

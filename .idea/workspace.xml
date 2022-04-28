@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="260e8ef6-4c41-435d-8255-72f302a65d46" name="Changes" comment="26.04.2022">
-      <change afterPath="$PROJECT_DIR$/src/LambdaDay02/C01_Q11Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LambdaDay02/Lambda02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulYonetimPlatformu/AnaMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulYonetimPlatformu/AnaMenuInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulYonetimPlatformu/Islemler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulYonetimPlatformu/IslemlerInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulYonetimPlatformu/Kisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulYonetimPlatformu/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulYonetimPlatformu/Ogretmen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulYonetimPlatformu/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulYonetimPlatformu/Task.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulYonetimPlatformu/TryCatches.java" afterDir="false" />
+    <list default="true" id="260e8ef6-4c41-435d-8255-72f302a65d46" name="Changes" comment="27.04.2022">
+      <change afterPath="$PROJECT_DIR$/src/LambdaDay03/C01_Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaDay03/Lambda03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaDay02/Lambda02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaDay02/Lambda02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/okulYonetimPlatformu/TryCatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/okulYonetimPlatformu/TryCatches.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,21 +52,22 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/okulYonetimPlatformu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/LambdaNot" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="LambdaDay02" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AdvancedJavaPractice\src\LambdaNot" />
       <recent name="D:\AdvancedJavaPractice\src\okulYonetimPlatformu" />
       <recent name="D:\AdvancedJavaPractice\src" />
       <recent name="D:\AdvancedJavaPractice\src\Projects\Projects_02" />
       <recent name="D:\AdvancedJavaPractice\src\_10_List" />
-      <recent name="D:\AdvancedJavaPractice\src\_06_Method_Creation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\AdvancedJavaPractice\src" />
@@ -82,26 +75,13 @@
       <recent name="D:\AdvancedJavaPractice\src\AdvancedJavaPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lambda02">
+  <component name="RunManager" selected="Application.Lambda03">
     <configuration name="C01_Q11Team" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LambdaDay02.C01_Q11Team" />
       <module name="AdvancedJavaPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LambdaDay02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashMap01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_18_Maps.HashMap01" />
-      <module name="AdvancedJavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_18_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,6 +115,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lambda03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaDay03.Lambda03" />
+      <module name="AdvancedJavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LambdaDay03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="okulYonetimPlatformu.Runner" />
       <module name="AdvancedJavaPractice" />
@@ -150,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lambda03" />
         <item itemvalue="Application.Lambda02" />
         <item itemvalue="Application.C01_Q11Team" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Lambda01" />
-        <item itemvalue="Application.HashMap01" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650999955530</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="27.04.2022">
+      <created>1651076963791</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651076963791</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +237,7 @@
     <MESSAGE value="12.04.2022" />
     <MESSAGE value="16.04.2022" />
     <MESSAGE value="26.04.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="26.04.2022" />
+    <MESSAGE value="27.04.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="27.04.2022" />
   </component>
 </project>
