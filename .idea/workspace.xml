@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="260e8ef6-4c41-435d-8255-72f302a65d46" name="Changes" comment="27.04.2022">
-      <change afterPath="$PROJECT_DIR$/src/LambdaDay03/C01_Q11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LambdaDay03/Lambda03.java" afterDir="false" />
+    <list default="true" id="260e8ef6-4c41-435d-8255-72f302a65d46" name="Changes" comment="28.04.2022">
+      <change afterPath="$PROJECT_DIR$/src/LambdaDay04/C01_Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaNot/LambdaExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaDay02/Lambda02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaDay02/Lambda02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/okulYonetimPlatformu/TryCatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/okulYonetimPlatformu/TryCatches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaDay03/Lambda03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaDay03/Lambda03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,19 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LambdaDay01.Lambda01" />
-      <module name="AdvancedJavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LambdaDay01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Lambda02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LambdaDay02.Lambda02" />
       <module name="AdvancedJavaPractice" />
@@ -128,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LambdaExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaNot.LambdaExercise" />
+      <module name="AdvancedJavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LambdaNot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="okulYonetimPlatformu.Runner" />
       <module name="AdvancedJavaPractice" />
@@ -144,10 +143,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Lambda03" />
-        <item itemvalue="Application.Lambda02" />
         <item itemvalue="Application.C01_Q11Team" />
+        <item itemvalue="Application.LambdaExercise" />
+        <item itemvalue="Application.Lambda02" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.Lambda01" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651076963791</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="28.04.2022">
+      <created>1651163190342</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1651163190342</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +244,7 @@
     <MESSAGE value="16.04.2022" />
     <MESSAGE value="26.04.2022" />
     <MESSAGE value="27.04.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="27.04.2022" />
+    <MESSAGE value="28.04.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="28.04.2022" />
   </component>
 </project>
