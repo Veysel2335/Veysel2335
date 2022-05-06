@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="260e8ef6-4c41-435d-8255-72f302a65d46" name="Changes" comment="29.04.2022">
-      <change afterPath="$PROJECT_DIR$/src/Lambda04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda04Printf.java" afterDir="false" />
+    <list default="true" id="260e8ef6-4c41-435d-8255-72f302a65d46" name="Changes" comment="30.04.2022">
       <change afterPath="$PROJECT_DIR$/src/Lambda05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExerciseForMe/LC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/haluk.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaDay04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaDay05.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,49 +77,36 @@
       <recent name="D:\AdvancedJavaPractice\src\AdvancedJavaPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lambda04Printf">
-    <configuration name="C01_Q11Team" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LambdaDay02.C01_Q11Team" />
+  <component name="RunManager" selected="Application.LambdaDay05">
+    <configuration name="LC01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExerciseForMe.LC01" />
       <module name="AdvancedJavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LambdaDay02.*" />
+          <option name="PATTERN" value="LambdaExerciseForMe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lambda03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LambdaDay03.Lambda03" />
-      <module name="AdvancedJavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LambdaDay03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lambda04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda04" />
-      <module name="AdvancedJavaPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lambda04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda04" />
-      <module name="AdvancedJavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Lambda04Printf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lambda04Printf" />
+      <module name="AdvancedJavaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaDay04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaDay04" />
+      <module name="AdvancedJavaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaDay05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaDay05" />
       <module name="AdvancedJavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaDay05" />
+        <item itemvalue="Application.LC01" />
         <item itemvalue="Application.Lambda04Printf" />
         <item itemvalue="Application.Lambda04Printf" />
         <item itemvalue="Application.lambda04Printf" />
-        <item itemvalue="Application.Lambda04" />
-        <item itemvalue="Application.Lambda03" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651263769883</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="30.04.2022">
+      <created>1651336301660</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651336301660</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,6 +239,7 @@
     <MESSAGE value="27.04.2022" />
     <MESSAGE value="28.04.2022" />
     <MESSAGE value="29.04.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="29.04.2022" />
+    <MESSAGE value="30.04.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="30.04.2022" />
   </component>
 </project>
